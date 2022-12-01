@@ -33,6 +33,10 @@
 
     git commit -a
 
+Фиксация изменений с совмещением команд git add и git commit -m
+
+    git commit -am
+
 
 
 
