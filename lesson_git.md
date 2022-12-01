@@ -29,6 +29,10 @@
 
     git commit -m
 
+Фиксация изменений с совмещением команды git add
+
+    git commit -a
+
 
 
 
