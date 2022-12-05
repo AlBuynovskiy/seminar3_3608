@@ -94,3 +94,5 @@
     git branch <newbranch>
 
 где <newbranch> имя создаваемой ветки
+
+### Слияние веток
